@@ -1,0 +1,9 @@
+package corountines
+//
+
+/*Secara umum, fungsi asynchronous pada coroutines terbagi menjadi 2 (dua) jenis, 
+yaitu fungsi yang mengembalikan hasil dan sebaliknya, fungsi yang tidak mengembalikan hasil. 
+Fungsi yang mengembalikan hasil biasanya digunakan jika kita menginginkan sebuah data ketika fungsi tersebut selesai 
+dijalankan. Sebagai contoh, fungsi untuk mengambil informasi dari web service yang menghasilkan respon berupa JSON atau yang lainnya. 
+Sedangkan fungsi yang tidak mengembalikan hasil biasanya digunakan untuk mengirimkan analitik, 
+menuliskan log, atau tugas sejenis lainnya.*/

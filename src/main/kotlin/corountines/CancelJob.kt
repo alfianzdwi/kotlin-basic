@@ -1,0 +1,4 @@
+package corountines
+
+class CancelJob {
+}
